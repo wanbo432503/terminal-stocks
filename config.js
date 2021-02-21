@@ -8,7 +8,7 @@ const config = {
         headerHost:''
     },
 
-    stocks:['sh601118', 'sh600684']
+    stocks:['sh603019','sz002547']
 };
 
 module.exports = config;

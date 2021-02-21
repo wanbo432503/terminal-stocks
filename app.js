@@ -100,7 +100,7 @@ function getData() {
                     renderList();
                     setTimeout(function () {
                         getData();
-                    }, 5000);
+                    }, 10000);
                 }
             });
         })
